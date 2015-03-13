@@ -1,9 +1,9 @@
 {
-  "name": "iggy",
+  "name": "fawbot",
   "version": "0.0.0",
   "private": true,
   "author": "Jon Pascoe <jon.pascoe@me.com>",
-  "description": "Iggy, the intelligentgolf slack bot",
+  "description": "fawbot, the Find and Watch Chat Bot",
   "dependencies": {
     "hubot": "^2.11.2",
     "hubot-codinglove": "^0.1.4",
