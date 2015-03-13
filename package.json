@@ -2,7 +2,7 @@
   "name": "fawbot",
   "version": "0.0.0",
   "private": true,
-  "author": "Jon Pascoe <jon.pascoe@me.com>",
+  "author": "Find & Watch Team",
   "description": "fawbot, the Find and Watch Chat Bot",
   "dependencies": {
     "hubot": "^2.11.2",
